@@ -32,4 +32,7 @@ Data Analysis Process:
 
 (*) Plot a bubble chart to analyze the relationship between app size and average rating, with the bubble size representing the number of installs.
 
+
+Hint :  Each chart has time restriction to show output for particular time frame that would also be mentioned in the code.
+
 There are five tasks and their results had been attached in the google collab notebook.
