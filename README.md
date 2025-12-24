@@ -1,6 +1,6 @@
 # Google Playstore Task Documentation.
 
-Google Playstore data analysis - python.
+Google Playstore data analytics - python.
 
 There are two csv data files:
 
