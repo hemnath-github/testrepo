@@ -21,7 +21,6 @@ Data Cleaning Process :
 
 (*) Checking null values and Rating, Current Ver, Android Ver, Translated_Review, Sentiment, Sentiment_Polarity, Sentiment_Subjectivity columns are null values occured by natures.
 
-
 Data Analysis Process: 
 
 (*) Comparing the average rating and total review count for the top 10 app categories by number of installs through the grouped bar chart.
